@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # Define the path to the text file
-file_path = r"./DynamicAnalysis/dynamic1/dyanmic_analysis1.txt"
+file_path = r"./dynamic1/dyanmic_analysis1.txt"
 
 # Read the file, skipping the first 11 lines
 data = pd.read_csv(

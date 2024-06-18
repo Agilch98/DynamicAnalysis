@@ -34,5 +34,5 @@ pip install -r requirements.txt
 To run code:
 
 ```bash
-python ./DynamicAnalysis/PythonFiles/dynamic1/dynamic_difference_plot_200_400.py
+python ./PythonFiles/dynamic1/dynamic_difference_plot_200_400.py
 ```
