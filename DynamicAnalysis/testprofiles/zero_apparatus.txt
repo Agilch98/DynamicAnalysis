@@ -1,2 +1,0 @@
-action,apparatus,channel1,load1,channel2,load2,channel3,load3,channel4,load4,channel5,load5,loadtime,resttime
-zeroed,Triaxial Loading Jig (Ceberus),Dev1/ao0,0,Dev1/ao1,0,Dev1/ao2,0,Dev1/ao3,0,Dev1/ao4,0,1,1
